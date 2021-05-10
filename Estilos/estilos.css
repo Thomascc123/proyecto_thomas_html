@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    font-family: monospace;
+}
+/***********************/
+/*   Colores    */
+.azul {
+    /* background: linear-gradient(90deg, rgb(0, 195, 255) 0, rgb(0, 0, 250) 100%); */
+    background: linear-gradient(90deg, rgba(158,255,8,1) 0%, rgba(76,233,240,1) 42%, rgba(239,0,255,1) 100%);
+
+}
+
+.texto_blanco {
+    color: white;
+    margin: 0;
+}
+
+.bg_blanco {
+    background: white;
+}
+
+.texto_azul {
+    color: blue;
+}
+
+.header {
+    padding: 8px 10%;
+}
+
+.logo {
+    font-size: larger;
+    font-weight: 900;
+    letter-spacing: 2px;
+    text-align: left;
+    margin: 10px 0;
+}
+
+.container {
+    padding: 20px 30px;
+    text-align: justify;
+}
+
+.container h1 {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+.header ul {
+    list-style: none;
+    text-align: right;
+    margin: 0;
+}
+
+.header li {
+    display: inline-block;
+}
+.header ul li a {
+    text-decoration: none;
+}
+
+button {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    background-color: blue;
+    border: 0;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+}
+
+.main img{
+    width: 80%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+
+
+
+

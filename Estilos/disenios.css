@@ -1,0 +1,69 @@
+/* estilo para eliminar el borde de la hoja html */
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("/Proyecto/Imagenes/Gigachad.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head, nav, main, footer {
+    padding: 10px 20px;
+}
+.head, nav, main, footer {
+    background-color: transparent! important;
+    border: 1px solid black;
+}
+
+.head {
+    background-color: yellowgreen;
+    color: cadetblue;
+    height: 130px;
+    text-align:  center;
+}
+
+.contenido {
+    background-color: transparent;
+    display: flex;
+    margin: 20px 0;
+}
+
+nav, main {
+    height: 300px;
+}
+
+nav {
+    background-color: cadetblue;
+    color: black;
+    margin-right: 20px;
+    flex: 30%;
+    /* background-image: url("/Proyecto/Imagenes/unnamed.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+main {
+    background-color: lightcoral;
+    color: red;
+    flex: 65%;
+    background-image: url(/Proyecto/Imagenes/Th.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer {
+    background-color: gray;
+    color: black;
+    text-align: center;
+}
+
+.titulo {
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-weight: 900;
+    margin: 10px 0;
+}
+
+.justo {
+    text-align: justify;
+}
