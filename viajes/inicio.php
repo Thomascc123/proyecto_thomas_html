@@ -17,7 +17,7 @@
         <div Class="columna"> 
 
             <div class="filtro"> </div>
-            <img src="/Proyecto/Imagenes/edificioavion.jpeg">
+            <img src="/Proyecto/proyecto_thomas_html/Imagenes/edificioavion.jpeg">
 
             <div Class="medio">
                 <div Class="border_top"></div>
@@ -30,7 +30,7 @@
         <div Class="columna">
 
             <div class="filtro"> </div>
-            <img src="/Proyecto/Imagenes/mayami.jpeg">
+            <img src="/Proyecto/proyecto_thomas_html/Imagenes/mayami.jpeg">
         
             <div Class="medio">
                 <div Class="border_top"></div>
@@ -47,7 +47,7 @@
         <div Class="columna"> 
 
             <div class="filtro"> </div>
-            <img src="/Proyecto/Imagenes/casasblancas.jpeg">
+            <img src="/Proyecto/proyecto_thomas_html/Imagenes/casasblancas.jpeg">
 
             <div Class="medio">
                 <div Class="border_top"></div>
@@ -60,7 +60,7 @@
         <div Class="columna"> 
 
             <div class="filtro"> </div>
-            <img src="/Proyecto/Imagenes/velas.jpeg">
+            <img src="/Proyecto/proyecto_thomas_html/Imagenes/velas.jpeg">
 
             <div Class="medio">
                 <div Class="border_top"></div>

@@ -68,7 +68,7 @@ body {
 .head{
     width: 100%;
     height: 100vh;
-    background-image: url(/Proyecto/Imagenes/paris.jpeg);
+    background-image: url(/Proyecto/proyecto_thomas_html/Imagenes/paris.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -118,7 +118,7 @@ button {
 footer {
     padding-top: 3em; 
     height: calc(100vh - 3em);
-    background-image: url('/Proyecto/Imagenes/venecia.jpeg');
+    background-image: url('/Proyecto/proyecto_thomas_html/Imagenes/venecia.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
